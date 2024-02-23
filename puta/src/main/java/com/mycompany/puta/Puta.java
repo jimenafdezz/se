@@ -11,6 +11,6 @@ package com.mycompany.puta;
 public class Puta {
 
     public static void main(String[] args) {
-        System.out.println("feo!");
+        System.out.println("nariz!");
     }
 }
